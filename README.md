@@ -1,3 +1,19 @@
+<div align="center">
+
+## 💎 Sponsored by CoreClaw
+
+[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
+
+✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
+
+⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+</div>
+
+---
+
 # 🚀 Google Maps Scraper API (2026)
 
 > A production-ready [Google Maps Scraper API](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) for extracting business listings, reviews, phone numbers, websites, emails, Place IDs, and location data.
