@@ -33,54 +33,6 @@
 
 ---
 
-
-## 📘 Table of Contents
-
-- [Local Lead Generation](#local-lead-generation)
-- [Local SEO](#local-seo)
-- [CRM Enrichment](#crm-enrichment)
-- [AI Applications](#ai-applications)
-- [Related Repositories](#related-repositories)
-- [Support This Project](#-support-this-project)
-
----
-
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/google-map-scraper-api-?style=social)](https://github.com/data-scrape/google-map-scraper-api-)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/google-map-scraper-api-?style=social)](https://github.com/data-scrape/google-map-scraper-api-/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/google-map-scraper-api-)](https://github.com/data-scrape/google-map-scraper-api-/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/google-map-scraper-api-)](https://github.com/data-scrape/google-map-scraper-api-/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Google Maps scraper API - REST API for business data extraction
-
-
-<!-- SEO keywords: google map scraper api , Google Map Scraper Api , google map scraper api  python, google map scraper api  github, best google map  api scraper -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
----
-
-
 > A production-ready [Google Maps Scraper API](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) for extracting business listings, reviews, phone numbers, websites, emails, Place IDs, and location data.
 
 Looking for a reliable Google Maps API without maintaining browser automation or proxy infrastructure?
